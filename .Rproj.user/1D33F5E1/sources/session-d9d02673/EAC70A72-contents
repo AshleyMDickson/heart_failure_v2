@@ -22,7 +22,7 @@ library(gtsummary)
 
 ```{r}
 set.seed(42)
-hf_data <- read_excel("simulateddata_LR_NL.xlsx") %>% 
+hf_data <- read_excel(".gitignore/simulateddata_LR_NL.xlsx") %>% 
   rename(
     Outcome = outcome,
     Age = age,

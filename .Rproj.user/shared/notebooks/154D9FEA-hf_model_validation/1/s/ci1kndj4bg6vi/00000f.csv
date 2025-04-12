@@ -1,0 +1,3 @@
+"0","train_indices <- sample(seq_len(nrow(hf_data)), size = 0.7 * nrow(hf_data))"
+"0","hf_train <- hf_data[train_indices, ]"
+"0","hf_test  <- hf_data[-train_indices, ]"

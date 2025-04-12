@@ -1,0 +1,32 @@
+{
+    "id": "EAC70A72",
+    "path": "~/Documents/heart_failure_v2/hf_model_validation.qmd",
+    "project_path": "hf_model_validation.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1744472330515.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "0",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "539:200",
+        "cursorPosition": "134,10",
+        "scrollLine": "105",
+        "last_setup_crc32": "d9d02673f3d466c8"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1744482040,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1744482241200,
+    "read_only": false,
+    "read_only_alternatives": []
+}
